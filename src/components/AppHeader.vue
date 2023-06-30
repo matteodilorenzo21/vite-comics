@@ -82,8 +82,13 @@ data() {
 <style lang="scss" scoped>
 
   header {
-    height: 120px;
+    height: 100px;
     background-color: #fff;
+
+    img {
+        height: 70px;
+        width: 70px;
+    }
 
     ul {
         list-style-type: none;
@@ -93,7 +98,7 @@ data() {
             margin: 0 10px;
 
             a {
-                padding: 46px 0;
+                padding: 36px 0;
                 text-decoration: none;
                 font-size: 12px;
                 color: #000;

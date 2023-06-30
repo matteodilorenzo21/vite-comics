@@ -6,9 +6,7 @@
 <main>
 
     <div class="container justify-content-sb">
-        <i class="fa-solid fa-arrow-right fa-2x" style="color: #ffffff;"></i>
-        <h1>Content goes here</h1>
-        <i class="fa-solid fa-arrow-left fa-2x" style="color: #ffffff;"></i>
+        
     </div>
 
 </main>
@@ -17,8 +15,8 @@
 <style lang="scss" scoped>
 
     main {
-        height: 120px;
-        background-color: #000;
+        height: 100px;
+        background-color: #161616;
         padding-right: 45%;
         display: flex;
         
